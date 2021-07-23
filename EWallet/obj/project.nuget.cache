@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "nfntRta3q1L79AxpI3WYDqYInibbX+dSKaVFSUVHkV48OLq9Foyqy0cYBKu6YbRkvcaoFgmhch+qwX3VOvdgAw==",
+  "success": true,
+  "projectFilePath": "D:\\Codespace\\EWallet\\EWallet\\EWallet.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\suryanarayan.b\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\suryanarayan.b\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\suryanarayan.b\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\suryanarayan.b\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\suryanarayan.b\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\suryanarayan.b\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
